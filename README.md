@@ -16,7 +16,8 @@ var lock = new PatternLock("#patternContainer");
 </pre>
 <br/>
 Check demo and documentation on <a href="http://ignitersworld.com/lab/patternLock.html">http://ignitersworld.com/lab/patternLock.html</a>
-![](https://github.com/yll1024335892/patternLock/blob/master/document.png)
+
+![image](https://github.com/yll1024335892/patternLock/blob/master/document.png)
 <h3>Major updates</h3>
 
 <strong>v1.0.1</strong>
